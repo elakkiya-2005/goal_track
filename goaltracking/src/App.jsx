@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <div>
+        <h>welcome to my goal app</h>
         < GoalApp />
       </div>
       
